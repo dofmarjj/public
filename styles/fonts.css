@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Conv_gothampro";
+  src: url("/assets/fonts/gothampro.eot");
+  src: local("☺"), url("/assets/fonts/gothampro.ttf") format("truetype");
+  font-weight: medium;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Conv_gothamproital";
+  src: url("/assets/fonts/gothampro.eot");
+  src: local("☺"), url("/assets/fonts/gothampro_italic.ttf ") format("truetype");
+  font-weight: medium;
+  font-style: normal;
+}
