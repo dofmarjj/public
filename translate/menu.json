@@ -1,0 +1,312 @@
+{
+  "main": {
+    "sort": 0,
+    "name": {
+      "ru": "Главная",
+      "en": "Main",
+      "de": "Heim",
+      "fr": "Maison"
+    }
+  },
+
+  "markets": {
+    "sort": 1,
+    "name": {
+      "ru": "Рынки",
+      "en": "Markets",
+      "de": "Märkte",
+      "fr": "Marchés"
+    },
+    "identifier": "menu-drop",
+    "items": [
+      {
+        "name": {
+          "ru": "Валюты",
+          "en": "Currencies",
+          "de": "Währungen",
+          "fr": "Devises"
+        },
+        "sort": 1,
+        "template": "MARKET_FOREX"
+      },
+      {
+        "name": {
+          "ru": "CDF Контракты",
+          "en": "CDF Contracts",
+          "de": "CDF-Verträge",
+          "fr": "Contrats CDF"
+        },
+        "sort": 2,
+        "template": "MARKET_FUTURES"
+      },
+      {
+        "name": {
+          "ru": "Индексы",
+          "en": "Indexes",
+          "de": "Indizes",
+          "fr": "Index"
+        },
+        "sort": 3,
+        "template": "MARKET_INDICES"
+      },
+      {
+        "name": {
+          "ru": "Акции",
+          "en": "Stock",
+          "de": "Aktie",
+          "fr": "Action"
+        },
+        "sort": 4,
+        "template": "MARKET_SHARE"
+      },
+      {
+        "name": {
+          "ru": "Металлы",
+          "en": "Metals",
+          "de": "Metalle",
+          "fr": "Les métaux"
+        },
+        "sort": 5,
+        "template": "MARKET_METALS"
+      },
+
+      {
+        "name": {
+          "ru": "Криптовалюты",
+          "en": "Cryptocurrencies",
+          "de": "Kryptowährungen",
+          "fr": "Crypto-monnaies"
+        },
+        "sort": 6,
+        "template": "MARKET_CRYPTOCURRENCIES"
+      },
+      {
+        "name": {
+          "ru": "Энергоресурсы",
+          "en": "Energy resources",
+          "de": "Energieressourcen",
+          "fr": "Ressources énergétiques"
+        },
+        "sort": 7,
+        "template": "MARKET_ENERGIES"
+      }
+    ]
+  },
+  "trading": {
+    "sort": 2,
+    "name": {
+      "ru": "Трейдинг",
+      "en": "Trading",
+      "de": "Handel",
+      "fr": "Commerce"
+    },
+    "identifier": "menu_pricing",
+    "items": [
+      {
+        "name": {
+          "ru": "Калькуляторы",
+          "en": "Calculators",
+          "de": "Taschenrechner",
+          "fr": "Calculatrices"
+        },
+        "sort": 1,
+        "template": "TRADING_CALCULATORS"
+      },
+      {
+        "name": {
+          "ru": "Исполнение сделок",
+          "en": "Trade Execution",
+          "de": "Handelsausführung",
+          "fr": "Exécution des transactions"
+        },
+        "sort": 2,
+        "template": "TRADING_DEAL"
+      },
+      {
+        "name": {
+          "ru": "Пополнение счета",
+          "en": "Refill",
+          "de": "Nachfüllung",
+          "fr": "Recharge"
+        },
+        "sort": 3,
+        "template": "TRADING_DEPOSIT_METHODS"
+      },
+      {
+        "name": {
+          "ru": "Начать путь",
+          "en": "Start the journey",
+          "de": "Beginnen Sie die Reise",
+          "fr": "Commencez le voyage"
+        },
+        "sort": 4,
+        "template": "TRADING_OPEN_ACCOUNT"
+      },
+      {
+        "name": {
+          "ru": "Новости рынка",
+          "en": "Market news",
+          "de": "Marktnachrichten",
+          "fr": "Actualités du marché"
+        },
+        "sort": 5,
+        "template": "TRADING_NEWS"
+      },
+      {
+        "name": {
+          "ru": "Экономический календарь",
+          "en": "Economic calendar",
+          "de": "Wirtschaftskalender",
+          "fr": "Calendrier économique"
+        },
+        "sort": 6,
+        "template": "TRADING_ECONOMIC_CALENDAR"
+      }
+    ]
+  },
+  "documents": {
+    "sort": 3,
+    "name": {
+      "ru": "Документация",
+      "en": "Documentation",
+      "de": "Dokumentation",
+      "fr": "Documentation"
+    },
+    "identifier": "document-menu",
+    "items": [
+      {
+        "name": {
+          "ru": "Клиентское соглашение",
+          "en": "Client Agreement",
+          "de": "Kundenvereinbarung",
+          "fr": "Accord client"
+        },
+        "sort": 1,
+        "template": "DOCUMENTS_TERMS_AND_CONDITIONS"
+      },
+      {
+        "name": {
+          "ru": "Онлайн-торговля CFD",
+          "en": "Online CFD trading",
+          "de": "Online-CFD-Handel",
+          "fr": "Trading de CFD en ligne"
+        },
+        "sort": 2,
+        "template": "DOCUMENTS_CORPORATE_ACTIONS"
+      },
+      {
+        "name": {
+          "ru": "Политика конфиденциальности",
+          "en": "Privacy Policy",
+          "de": "Datenschutzrichtlinie",
+          "fr": "Politique de confidentialité"
+        },
+        "sort": 3,
+        "template": "DOCUMENTS_KEY_PRIVACY_POLICY"
+      },
+      {
+        "name": {
+          "ru": "Порядок подачи претензий",
+          "en": "Procedure for filing claims",
+          "de": "Verfahren zur Geltendmachung von Ansprüchen",
+          "fr": "Procédure de dépôt des réclamations"
+        },
+        "sort": 4,
+        "template": "DOCUMENTS_KEY_COMPLAINTS_HANDLING_PROCEDURE"
+      },
+      {
+        "name": {
+          "ru": "Правила и условия бонусов",
+          "en": "Bonus Terms and Conditions",
+          "de": "Bonusbedingungen",
+          "fr": "Conditions générales des bonus"
+        },
+        "sort": 5,
+        "template": "DOCUMENTS_BONUS_RULES"
+      },
+      {
+        "name": {
+          "ru": "Предотвращение отмывания денег",
+          "en": "Prevention of money laundering",
+          "de": "Prävention von Geldwäsche",
+          "fr": "Prévention du blanchiment d'argent"
+        },
+        "sort": 6,
+        "template": "DOCUMENTS_MONEY_LAUNDERING"
+      },
+      {
+        "name": {
+          "ru": "Торговля без рисков",
+          "en": "Trading without risks",
+          "de": "Handeln ohne Risiko",
+          "fr": "Trader sans risques"
+        },
+        "sort": 7,
+        "template": "DOCUMENTS_WITHOUT_RISK"
+      },
+
+      {
+        "name": {
+          "ru": "Уведомление о рисках",
+          "en": "Risk Notice",
+          "de": "Risikohinweis",
+          "fr": "Avis de risque"
+        },
+        "sort": 8,
+        "template": "DOCUMENTS_RISK_DISCLOSURE"
+      },
+      {
+        "name": {
+          "ru": "Положения и условия",
+          "en": "Terms and Conditions",
+          "de": "Geschäftsbedingungen",
+          "fr": "Termes et conditions"
+        },
+        "sort": 9,
+        "template": "DOCUMENTS_LEGAL_INFORMATION"
+      }
+    ]
+  },
+  "about-us": {
+    "sort": 4,
+    "name": {
+      "ru": "О компании",
+      "en": "About company",
+      "de": "Über das Unternehmen",
+      "fr": "À propos de la société"
+    },
+    "identifier": "menu_about",
+    "items": [
+      {
+        "name": {
+          "ru": "О компании",
+          "en": "About company",
+          "de": "Über das Unternehmen",
+          "fr": "À propos de la société"
+        },
+        "sort": 1,
+        "template": "ABOUT_COMPANY_ABOUT_US"
+      },
+      {
+        "name": {
+          "ru": "Кредитный рейтинг",
+          "en": "Credit rating",
+          "de": "Kreditbeurteilung",
+          "fr": "Cote de crédit"
+        },
+        "sort": 2,
+        "template": "ABOUT_COMPANY_CREDIT_SCORE"
+      },
+      {
+        "name": {
+          "ru": "Контакты",
+          "en": "Contacts",
+          "de": "Kontakte",
+          "fr": "Contacts"
+        },
+        "sort": 3,
+        "template": "ABOUT_COMPANY_CONTACT_US"
+      }
+    ]
+  }
+}

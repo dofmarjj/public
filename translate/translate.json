@@ -2,409 +2,246 @@
   "home": {
     "home_title": {
       "ru": "Откройте мир институциональной ликвидности!",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "Discover the World of Institutional Liquidity!",
+      "de": "Entdecken Sie die Welt der institutionellen Liquidität!",
+      "fr": "Découvrez le monde de la liquidité institutionnelle !"
     },
     "home_description": {
       "ru": "Моментальное исполнение ордеров с новыми технологиями",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "Instant order execution with advanced technologies.",
+      "de": "Sofortige Auftragsausführung mit fortschrittlichen Technologien.",
+      "fr": "Exécution instantanée des ordres grâce à des technologies avancées."
     },
     "home_btn_reg": {
       "ru": "Регистрация",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "Register Now",
+      "de": "Jetzt registrieren",
+      "fr": "Inscrivez-vous maintenant"
     },
     "home_bill_title": {
       "ru": "Выберите подходящий тип счета!",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-
-    "card_bill_for_beginners": {
-      "ru": "Для первых шагов",
-      "en": "For beginners",
-      "de": "",
-      "fr": ""
-    },
-    "card_bill_for_earnings": {
-      "ru": "Для солидных заработков",
-      "en": "For substantial earnings",
-      "de": "",
-      "fr": ""
-    },
-    "card_bill_for_profits": {
-      "ru": "Для максимальной прибыли",
-      "en": "For maximum profits",
-      "de": "",
-      "fr": ""
+      "en": "Choose the Right Account Type!",
+      "de": "Wählen Sie den richtigen Kontotyp!",
+      "fr": "Choisissez le type de compte qui vous convient !"
     },
     "card_bill_min_deposit": {
       "ru": "Минимальный депозит",
-      "en": "",
+      "en": "Minimum deposit",
       "de": "",
       "fr": ""
     },
     "card_bill_spreads": {
       "ru": "Спреды",
-      "en": "",
+      "en": "Spreads",
       "de": "",
       "fr": ""
     },
     "card_bill_commission": {
       "ru": "Комиссии",
-      "en": "",
+      "en": "Commission",
       "de": "",
       "fr": ""
     },
     "card_bill_leverage": {
       "ru": "Кредитное плечо",
-      "en": "",
+      "en": "Leverage",
       "de": "",
       "fr": ""
     },
     "card_bill_account_currency": {
       "ru": "Валюта счета",
-      "en": "",
+      "en": "Account currency",
       "de": "",
       "fr": ""
     },
     "card_bill_trading_volume": {
       "ru": "Торговый объем",
-      "en": "",
+      "en": "Trading volume",
       "de": "",
       "fr": ""
     },
     "card_bill_personal_manager": {
       "ru": "Личный менеджер",
-      "en": "",
+      "en": "Personal manager",
       "de": "",
       "fr": ""
     },
     "card_bill_trading_signals": {
       "ru": "Торговые сигналы",
-      "en": "",
+      "en": "Trading signals",
       "de": "",
       "fr": ""
     },
     "card_bill_long_forecasts": {
       "ru": "Долгосрочные прогнозы",
-      "en": "",
+      "en": "Long-term forecasts",
       "de": "",
       "fr": ""
     },
-    "card_bill_pips": {
-      "ru": "п",
-      "en": "pips",
-      "de": "",
-      "fr": ""
-    },
-    "card_bill_from": {
-      "ru": "от",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "card_bill_to": {
-      "ru": "до",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-
     "home_bill_description": {
       "ru": "Удобные торговые планы для трейдеров и инвесторов любого уровня капитала",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "Convenient trading plans for traders and investors of any capital level.",
+      "de": "Bequeme Handelspläne für Händler und Investoren jeder Kapitalgröße.",
+      "fr": "Des plans de trading pratiques pour les traders et les investisseurs de tout niveau de capital."
     },
     "home_trading_conditions": {
       "ru": "Лучшие условия трейдинга со всеми преимуществами STP-исполнения",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "The Best Trading Conditions with All the Advantages of STP Execution",
+      "de": "Die besten Handelsbedingungen mit allen Vorteilen der STP-Ausführung",
+      "fr": "Les meilleures conditions de trading avec tous les avantages de l'exécution STP"
     },
     "home_interbank_network": {
       "ru": "Прямое включение в межбанковскую сеть через STP",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "Direct inclusion in the interbank network via STP.",
+      "de": "Direkte Einbindung in das Interbanken-Netzwerk durch STP.",
+      "fr": "Inclusion directe dans le réseau interbancaire via STP."
     },
     "home_min_spred": {
       "ru": "Минимальные рыночные спреды",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "Minimal market spreads.",
+      "de": "Minimale Marktsprads.",
+      "fr": "Spreads de marché minimaux."
     },
     "home_ultrafast_performance": {
       "ru": "Сверхскоростное исполнение ордеров менее 5 мс",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "Ultra-fast order execution in less than 5 ms.",
+      "de": "Ultra-schnelle Auftragsausführung in weniger als 5 Millisekunden.",
+      "fr": "Exécution ultra-rapide des ordres en moins de 5 millisecondes."
     },
-    "home_display of quotes": {
+    "home_display_of_quotes": {
       "ru": "Мгновенное и точное отображение котировок с 0 пингом благодаря дата-центру Equinix",
-      "en": "",
+      "en": "Instant and accurate display of quotes with zero ping, powered by the Equinix data center.",
       "de": "",
       "fr": ""
     },
     "home_access_liquidity": {
       "ru": "Доступ к банковской ликвидности",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "Access to banking-level liquidity.",
+      "de": "Zugang zu Liquidität auf Bankniveau.",
+      "fr": "Accès à la liquidité de niveau bancaire."
     },
     "home_platform_choice": {
       "ru": "Торговые платформы для трейдинга на ваш выбор",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "home_your_comfort": {
-      "ru": "Ваш комфорт – наш приоритет. Sample Group предлагает широкий выбор платформ для трейдинга, чтобы каждый клиент нашел для себя идеальное решение. Используйте тот терминал, который подходит именно вам.",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "home_trade_platform": {
-      "ru": "Торговая платформа",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "home_online_terminal": {
-      "ru": "Онлайн терминал",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "home_maob_application": {
-      "ru": "Мобильное приложение",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "home_all_gadgets": {
-      "ru": "Для любых гаджетов",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "Trading Platforms for Your Convenience",
+      "de": "Handelsplattformen für Ihren Komfort",
+      "fr": "Plateformes de trading pour votre confort"
     },
     "home_smartphone_markets": {
       "ru": "Все финансовые рынки в вашем смартфоне!",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "All Financial Markets in Your Smartphone!",
+      "de": "Alle Finanzmärkte auf Ihrem Smartphone!",
+      "fr": "Tous les marchés financiers dans votre smartphone !"
     },
     "home_your_investments": {
       "ru": "Ваши инвестиции теперь всегда под рукой. Скачайте наше фирменное приложение, чтобы начать торговать и отслеживать рынки с максимальной скоростью и непревзойденным удобством. Мобильный терминал доступен в версиях для Android и iOS",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "Your investments are now always at hand. Download our proprietary app to start trading and monitoring markets with maximum speed and unmatched convenience. The mobile terminal is available for Android and iOS versions.",
+      "de": "Ihre Investitionen sind jetzt immer griffbereit. Laden Sie unsere firmeneigene App herunter, um Märkte mit maximaler Geschwindigkeit und unvergleichlichem Komfort zu handeln und zu überwachen. Das mobile Terminal ist für Android- und iOS-Versionen verfügbar.",
+      "fr": "Vos investissements sont désormais toujours à portée de main. Téléchargez notre application propriétaire pour commencer à trader et à surveiller les marchés avec une vitesse maximale et un confort inégalé. Le terminal mobile est disponible pour Android et iOS."
     },
-    "home_convenient_access": {
-      "ru": "Прямой и удобный доступ к крупнейшим мировым рынкам",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "home_easy_control": {
-      "ru": "Комфортное и простое управление вашим аккаунтом",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "home_flexible_methods": {
-      "ru": "Гибкие способы пополнения баланса и вывода средств",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "home_financial_news": {
-      "ru": "Горячие финансовые новости и аналитика прямо в приложении",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-
     "instruments_title": {
       "ru": "Используйте лучшего брокера для торговли на всех ликвидных активах!",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "instruments_description": {
-      "ru": "Sample Group уже 16 лет служит надежным проводником для трейдеров и инвесторов по всему миру. Откройте для себя торговлю CFD и ощутите максимальную свободу действий! Ведь к вашим услугам более 2000 активов самых ликвидных рынков планеты.",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "Trade All Liquid Assets with the Best Broker!",
+      "de": "Handeln Sie alle liquiden Vermögenswerte mit dem besten Broker!",
+      "fr": "Tradez tous les actifs liquides avec le meilleur courtier !"
     },
     "instruments_currencies": {
       "ru": "Валюты",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "instruments_currency_pairs": {
-      "ru": "Используйте для заработка более 50 валютных пар – от популярных до экзотических, получая максимум прибыли за счет минимальных издержек",
-      "en": "",
+      "en": "Currencies",
       "de": "",
       "fr": ""
     },
     "instruments_stocks": {
       "ru": "Акции",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "instruments_stock_access": {
-      "ru": "Получите доступ к ценным бумагам ведущих корпораций США, Европы и других стран для инвестиций и трейдинга",
-      "en": "",
+      "en": "Stocks",
       "de": "",
       "fr": ""
     },
     "instruments_indices": {
       "ru": "Фондовые индексы",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "instruments_index_investment": {
-      "ru": "Инвестируйте в мировые фондовые индексы и следите за движением крупнейших бирж мира",
-      "en": "",
+      "en": "Stock Indices",
       "de": "",
       "fr": ""
     },
     "instruments_crypto": {
       "ru": "Криптовалюты",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "instruments_crypto_access": {
-      "ru": "Получите доступ к популярным криптовалютам – Bitcoin, Ethereum, Solana и прочим",
-      "en": "",
+      "en": "Cryptocurrencies",
       "de": "",
       "fr": ""
     },
     "instruments_energy_resources": {
       "ru": "Энергоресурсы",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "instruments_energy_trade": {
-      "ru": "Зарабатывайте на нефти Brent, WTI и природном газе с гибкими условиями торговли",
-      "en": "",
+      "en": "Energy Resources",
       "de": "",
       "fr": ""
     },
     "instruments_cfd_metals": {
       "ru": "CFD на драгметаллы",
-      "en": "",
+      "en": "CFDs on Precious Metals",
       "de": "",
       "fr": ""
     },
-    "instruments_metals_trade": {
-      "ru": "Торгуйте золотом, серебром и платиной, чтобы получать стабильный доход",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-
     "home_market_leader": {
       "ru": "Лидер на глобальном финансовом рынке",
-      "en": "",
+      "en": "A Leader in the Global Financial Market",
       "de": "",
       "fr": ""
     },
     "home_conditions_analytics": {
       "ru": "Sample Group обеспечивает клиентов превосходными условиями для торговли, доступом к широкому спектру активов и экспертной аналитикой.",
-      "en": "",
+      "en": "Sample Group provides clients with exceptional trading conditions, access to a wide range of assets, and expert analytics.",
       "de": "",
       "fr": ""
     },
     "home_trading_simplified": {
       "ru": "С нами трейдинг становится проще и эффективнее – опирайтесь на готовые решения, соответствующее вашим целям",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "home_ipo_allocations": {
-      "ru": "Свыше полусотни больших аллокаций в IPO",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "home_order_speed": {
-      "ru": "Высочайшая скорость срабатывания ордеров до 5 мс",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "home_service_experience": {
-      "ru": "Качественное обслуживание клиентов более 16 лет",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "home_payment_methods": {
-      "ru": "Поддержка различных платежных методов",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "home_platforms_accounts": {
-      "ru": "Разнообразие торговых платформ и счетов",
-      "en": "",
+      "en": "With us, trading becomes simpler and more efficient—rely on ready-made solutions tailored to your goals.",
       "de": "",
       "fr": ""
     },
     "home_support_anytime": {
       "ru": "Профессиональная поддержка в любое время",
-      "en": "",
+      "en": "Professional support anytime.",
       "de": "",
       "fr": ""
     },
     "callus_block_contact_us": {
       "ru": "Для связи с нами перейдите в раздел",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
   },
-
-  "currencies": {
+  "market-currencies": {
     "currencies_title": {
       "ru": "Форекс – лучшие котировки в реальном времени",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "Forex – The Best Real-Time Quotes",
+      "de": "Forex – Die besten Echtzeitkurse",
+      "fr": "Forex – Les meilleures cotations en temps réel"
     },
     "currencies_description": {
       "ru": "Sample Group предлагает профессиональные услуги торговли валютными парами через современные профессиональные терминалы. Сервера, размещенные в крупных дата-центрах, обеспечивают мгновенный доступ к ценам от крупнейших мировых поставщиков ликвидности. Торговля валютными парами посредством ECN – позволяет получать лучшие цены и неограниченные объемы сделок. Получите доступ к настоящей межбанковской ликвидности с минимальными спредами и моментальным исполнением ордеров.",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "Sample Group offers professional services for trading currency pairs via advanced professional terminals.",
+      "de": "Die Sample Group bietet professionelle Dienstleistungen für den Handel mit Währungspaaren über fortschrittliche Terminals.",
+      "fr": "Sample Group propose des services professionnels pour le trading de paires de devises via des terminaux avancés."
     },
-
     "currencies_registration": {
       "ru": "Регистрация",
       "en": "",
       "de": "",
       "fr": ""
     },
-
     "deal_liquidity_pools": {
       "ru": "Молниеносный вывод сделок на пулы ликвидности банковского уровня",
       "en": "",
@@ -453,7 +290,6 @@
       "de": "",
       "fr": ""
     },
-
     "terminal_title": {
       "ru": "Найдите свой идеальный торговый терминал",
       "en": "",
@@ -472,7 +308,6 @@
       "de": "",
       "fr": ""
     },
-
     "intelligence_trading_info": {
       "ru": "Ключевые сведения о трейдинге с Sample Group",
       "en": "",
@@ -643,19 +478,24 @@
     },
     "callus_block_contact_us": {
       "ru": "Свяжитесь с нами на странице",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
   },
-
-  "cdf_contracts": {
+  "market-cdf-contracts": {
     "cdf_contracts_title": {
       "ru": "Онлайн котировки для CFD-контрактов",
       "en": "",
@@ -740,7 +580,6 @@
       "de": "",
       "fr": ""
     },
-
     "deal_liquidity_pools": {
       "ru": "Молниеносный вывод сделок на пулы ликвидности банковского уровня",
       "en": "",
@@ -935,19 +774,24 @@
     },
     "callus_block_contact_us": {
       "ru": "Свяжитесь с нами на странице",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
   },
-
-  "indexes": {
+  "market-indices": {
     "indexes_title": {
       "ru": "Фондовые индексы",
       "en": "Stock Indices",
@@ -1220,19 +1064,24 @@
     },
     "callus_block_contact_us": {
       "ru": "Для связи с нами перейдите в раздел",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
   },
-
-  "stock": {
+  "market-stock": {
     "stock_title": {
       "ru": "CFD на акции крупнейших компаний",
       "en": "",
@@ -1503,7 +1352,6 @@
       "de": "",
       "fr": ""
     },
-
     "intelligence_trading_info": {
       "ru": "Ключевые сведения о трейдинге с Sample Group",
       "en": "",
@@ -1650,19 +1498,24 @@
     },
     "callus_block_contact_us": {
       "ru": "Свяжитесь с нами на странице",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
   },
-
-  "metal": {
+  "market-metal": {
     "metal_title": {
       "ru": "Торговля драгоценными металлами",
       "en": "",
@@ -2049,19 +1902,24 @@
     },
     "callus_block_contact_us": {
       "ru": "Свяжитесь с нами на странице",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
   },
-
-  "energy_resources": {
+  "market-energies": {
     "energy_resources": {
       "ru": "Торговля энергоресурсами",
       "en": "",
@@ -2418,19 +2276,24 @@
     },
     "callus_block_contact_us": {
       "ru": "Свяжитесь с нами на странице",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
   },
-
-  "crypto": {
+  "market-cryptocurrencies": {
     "crypto_title": {
       "ru": "Покорите стремительно растущий мир криптовалют",
       "en": "",
@@ -2563,7 +2426,6 @@
       "de": "",
       "fr": ""
     },
-
     "terminal_title": {
       "ru": "Найдите свой идеальный торговый терминал",
       "en": "",
@@ -2582,7 +2444,6 @@
       "de": "",
       "fr": ""
     },
-
     "intelligence_trading_info": {
       "ru": "Ключевые сведения о трейдинге с Sample Group",
       "en": "",
@@ -2729,19 +2590,24 @@
     },
     "callus_block_contact_us": {
       "ru": "Свяжитесь с нами на странице",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
   },
-
-  "start": {
+  "trading-start": {
     "start_title": {
       "ru": "Создайте торговый аккаунт прямо сейчас!",
       "en": "Create a Trading Account Today!",
@@ -3056,19 +2922,24 @@
     },
     "callus_block_contact_us": {
       "ru": "Свяжитесь с нами на странице",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
   },
-
-  "about_us": {
+  "about-about-us": {
     "about_us_title": {
       "ru": "О брокере Sample Group",
       "en": "",
@@ -3275,19 +3146,24 @@
     },
     "callus_block_contact_us": {
       "ru": "Для связи с нами перейдите в раздел",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
   },
-
-  "credit_rating": {
+  "about-company-credit-rating": {
     "credit_rating_title": {
       "ru": "Что такое кредитный рейтинг?",
       "en": "",
@@ -3386,19 +3262,24 @@
     },
     "callus_block_contact_us": {
       "ru": "Для связи с нами перейдите в раздел",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
   },
-
-  "contacts_": {
+  "about-company-contact-us": {
     "contacts_title": {
       "ru": "Контакты",
       "en": "",
@@ -3406,7 +3287,7 @@
       "fr": ""
     },
     "contacts_description": {
-      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "ru": "sample-group - международная брокерская компания с офисами в разных регионах мира",
       "en": "",
       "de": "",
       "fr": ""
@@ -3431,12 +3312,6 @@
     },
     "contacts_offices": {
       "ru": "Наши офисы",
-      "en": "",
-      "de": "",
-      "fr": ""
-    },
-    "contacts_description": {
-      "ru": "sample-group - международная брокерская компания с офисами в разных регионах мира",
       "en": "",
       "de": "",
       "fr": ""
@@ -3470,10 +3345,15 @@
       "en": "",
       "de": "",
       "fr": ""
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
+      "de": "",
+      "fr": ""
     }
   },
-
-  "replenishment": {
+  "trading-account-replenishment": {
     "replenishment_title": {
       "ru": "Sample Group – надежный партнер для безопасных инвестиций",
       "en": "",
@@ -3596,19 +3476,24 @@
     },
     "callus_block_contact_us": {
       "ru": "Для связи с нами перейдите в раздел",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
   },
-
-  "calendar": {
+  "trading-economic-calendar": {
     "calendar_title": {
       "ru": "Экономический календарь",
       "en": "Economic Calendar",
@@ -3623,19 +3508,24 @@
     },
     "callus_block_contact_us": {
       "ru": "Для связи с нами перейдите в раздел",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
   },
-
-  "news": {
+  "trading-news": {
     "news_title": {
       "ru": "Информационно-аналитический центр Sample Group",
       "en": "Information and Analytical Center of Sample Group",
@@ -3656,19 +3546,24 @@
     },
     "callus_block_contact_us": {
       "ru": "Для связи с нами перейдите в раздел",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
   },
-
-  "execution": {
+  "targing-execution-transactions": {
     "execution_title": {
       "ru": "Преимущества сквозного исполнения ордеров без участия брокера",
       "en": "Benefits of Direct Order Execution Without Broker Intervention",
@@ -3839,13 +3734,19 @@
     },
     "callus_block_contact_us": {
       "ru": "Для связи с нами перейдите в раздел",
-      "en": "",
-      "de": "",
-      "fr": ""
+      "en": "For inquiries, visit the Contact Us section.",
+      "de": "Für Anfragen besuchen Sie den Bereich Kontakt.",
+      "fr": "Pour toute question ou demande d'information, visitez la section Contactez-nous."
     },
     "callus_block_contacts": {
       "ru": "Контакты",
-      "en": "",
+      "en": "Contacts",
+      "de": "Kontakte",
+      "fr": "Contacts"
+    },
+    "leave_message": {
+      "ru": "Оставьте сообщение, и мы вам ответим в ближайшее время:",
+      "en": "Leave a message, and we will get back to you as soon as possible.",
       "de": "",
       "fr": ""
     }
