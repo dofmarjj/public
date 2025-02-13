@@ -7,7 +7,7 @@
         <nav class="menu__nav">
             <ul class="menu__list">
                 <li>
-                    <a href="/index.php">Главная</a>
+                    <a href="/home.php">Главная</a>
                 </li>
                 <li>
                     <a>Рынки<span class="arrow"></span></a>

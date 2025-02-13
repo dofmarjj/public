@@ -1,0 +1,394 @@
+{
+  "home": {
+    "title": {
+      "ru": "ОФИЦИАЛЬНЫЙ САЙТ Sample Group – Форекс брокера мирового уровня",
+      "en": "OFFICIAL SITE Sample Group – world-class Forex broker",
+      "de": "OFFIZIELLE WEBSITE Sample Group – erstklassiger Forex-Broker",
+      "fr": "SITE OFFICIEL Sample Group – courtier Forex de classe mondiale"
+    },
+    "description": {
+      "ru": "Sample Group создал лучшие условия торговли CFD-контрактами по валютным парам, а также активам еще пяти других классов. Начните свой трейдинг вместе с лидирующим мировым Форекс-брокером.",
+      "en": "Sample Group has created the best trading conditions for CFD contracts on currency pairs, as well as five other asset classes. Start your trading with the world's leading Forex broker.",
+      "de": "Sample Group hat die besten Handelsbedingungen für CFD-Kontrakte auf Währungspaare sowie fünf weitere Anlageklassen geschaffen. Beginnen Sie Ihren Handel mit dem weltweit führenden Forex-Broker.",
+      "fr": "Sample Group a créé les meilleures conditions de trading pour les contrats CFD sur les paires de devises, ainsi que sur cinq autres classes d'actifs. Commencez votre trading avec le premier courtier Forex au monde."
+    }
+  },
+  "market-currencies": {
+    "title": {
+      "ru": "Форекс — крупнейший финансовый рынок, торговля валютными парами на Forex в Sample Group",
+      "en": "Forex is the largest financial market, trading currency pairs on Forex at Sample Group",
+      "de": "Forex ist der größte Finanzmarkt, auf dem Devisenpaare bei Sample Group gehandelt werden.",
+      "fr": "Le Forex est le plus grand marché financier, négociant des paires de devises sur le Forex chez Sample Group"
+    },
+    "description": {
+      "ru": "Курсы валютных пар на форекс, зарабатывайте на валютных парах Forex в реальном времени с Sample Group",
+      "en": "Forex currency pair rates, make money on Forex currency pairs in real time with Sample Group",
+      "de": "Forex-Währungspaarkurse: Verdienen Sie mit Sample Group in Echtzeit Geld mit Forex-Währungspaaren",
+      "fr": "Taux des paires de devises Forex, gagnez de l'argent sur les paires de devises Forex en temps réel avec Sample Group"
+    }
+  },
+  "market-cdf-contracts": {
+    "title": {
+      "ru": "Торговля фьючерсными контрактами онлайн на рынке форекс, CFD-контракты, графики котировок в реальном времени на Sample Group",
+      "en": "Trading futures contracts online on the forex market, CFD contracts, real-time quote charts on Sample Group",
+      "de": "Online-Handel mit Terminkontrakten auf dem Forex-Markt, CFD-Kontrakten, Echtzeit-Kursdiagramme auf Sample Group",
+      "fr": "Négocier des contrats à terme en ligne sur le marché des changes, des contrats CFD, des graphiques de cotation en temps réel sur Sample Group"
+    },
+    "description": {
+      "ru": "Sample Group предоставляет возможность торговать CFD на разные категории активов, включая индексы, энергетические ресурсы и сельскохозяйственные продукты. Актуальные котировки доступны на веб-сайте Sample Group.",
+      "en": "Sample Group provides the opportunity to trade CFDs on various asset categories, including indices, energy resources and agricultural products. Current quotes are available on the Sample Group website.",
+      "de": "Sample Group bietet die Möglichkeit, CFDs auf verschiedene Anlagekategorien zu handeln, darunter Indizes, Energieressourcen und landwirtschaftliche Produkte. Aktuelle Angebote finden Sie auf der Sample Group-Website.",
+      "fr": "Sample Group offre la possibilité de négocier des CFD sur diverses catégories d'actifs, notamment les indices, les ressources énergétiques et les produits agricoles. Les cotations actuelles sont disponibles sur le site Internet d'Sample Group."
+    }
+  },
+  "market-indixes": {
+    "title": {
+      "ru": "Мировые биржевые индексы — рыночные котировки индексных фондов в режиме реального времени на сайте ade-group.com",
+      "en": "World stock indices - market quotes of index funds in real time on the website ade-group.com",
+      "de": "Weltaktienindizes – Marktkurse von Indexfonds in Echtzeit auf der Website ade-group.com",
+      "fr": "Indices boursiers mondiaux - cotations boursières des fonds indiciels en temps réel sur le site ade-group.com"
+    },
+    "description": {
+      "ru": "Sample Group поддерживает CFD на мировые фондовые индексы. Узкие спреды и точные рыночные котировки, убедитесь сами",
+      "en": "Sample Group supports CFDs on global stock indices. Tight spreads and accurate market quotes, see for yourself",
+      "de": "Sample Group unterstützt CFDs auf globale Aktienindizes. Enge Spreads und genaue Marktkurse, überzeugen Sie sich selbst",
+      "fr": "Sample Group prend en charge les CFD sur les indices boursiers mondiaux. Spreads serrés et cotations de marché précises, voyez par vous-même"
+    }
+  },
+  "market-stock": {
+    "title": {
+      "ru": "Трейдинг акциями онлайн: CFD на акции – котировки акций на сегодня, графики",
+      "en": "Online stock trading: Stock CFDs - today's stock quotes, charts",
+      "de": "Online-Aktienhandel: Aktien-CFDs – aktuelle Aktienkurse, Diagramme",
+      "fr": "Trading d'actions en ligne: CFD sur actions - cotations boursières et graphiques du jour"
+    },
+    "description": {
+      "ru": "Торгуйте акциями через брокера ade-group.com. Ознакомьтесь с графиками и котировками самых известных мировых компаний.",
+      "en": "Trade shares through the broker ade-group.com. Check out the charts and quotes of the world's most famous companies.",
+      "de": "Handeln Sie Aktien über den Broker ade-group.com. Schauen Sie sich die Charts und Kurse der berühmtesten Unternehmen der Welt an.",
+      "fr": "Négociez des actions via le courtier ade-group.com. Consultez les graphiques et les cotations des entreprises les plus célèbres du monde."
+    }
+  },
+  "market-metal": {
+    "title": {
+      "ru": "Торговля цветными металлами через CFD: онлайн-графики, котировки | Трейдинг драгоценными металлами",
+      "en": "Trading non-ferrous metals via CFD: online charts, quotes | Trading precious metals",
+      "de": "Nichteisenmetalle über CFD handeln: Online-Charts, Kurse | Handel mit Edelmetallen",
+      "fr": "Négocier des métaux non ferreux via CFD : graphiques en ligne, cotations | Négocier des métaux précieux"
+    },
+    "description": {
+      "ru": "Зарабатывайте с CFD на драгоценные металлы – золото и серебро – на всех торговых платформах Sample Group.",
+      "en": "Make money with CFDs on precious metals - gold and silver - on all Sample Group trading platforms.",
+      "de": "Verdienen Sie Geld mit CFDs auf Edelmetalle – Gold und Silber – auf allen Handelsplattformen der Sample Group.",
+      "fr": "Gagnez de l'argent avec les CFD sur les métaux précieux - or et argent - sur toutes les plateformes de trading d'Sample Group."
+    }
+  },
+  "market-energy-resources": {
+    "title": {
+      "ru": "Торговля энергоресурсами онлайн, спот-цены на энергосырье, актуальные котировки на нефть и газ на сайте ade-group.com.",
+      "en": "Online trading of energy resources, spot prices for energy raw materials, current quotes for oil and gas on the website ade-group.com.",
+      "de": "Online-Handel mit Energieressourcen, Spotpreise für Energierohstoffe, aktuelle Notierungen für Öl und Gas auf der Website ade-group.com.",
+      "fr": "Négoce en ligne de ressources énergétiques, prix spot des matières premières énergétiques, cotations actuelles du pétrole et du gaz sur le site ade-group.com."
+    },
+    "description": {
+      "ru": "С Sample Group вам доступна торговля CFD на энергетические ресурсы и активы еще пяти категорий. Все актуальные цены и котировки на энергетические фьючерсы представлены на нашем сайте.",
+      "en": "With Sample Group you can trade CFDs on energy resources and assets in five more categories. All current prices and quotes for energy futures are presented on our website.",
+      "de": "Mit Sample Group können Sie CFDs auf Energieressourcen und -anlagen in fünf weiteren Kategorien handeln. Alle aktuellen Preise und Notierungen für Energie-Futures finden Sie auf unserer Website.",
+      "fr": "Avec Sample Group, vous pouvez négocier des CFD sur des ressources et des actifs énergétiques dans cinq catégories supplémentaires. Tous les prix et cotations actuels des contrats à terme sur l’énergie sont présentés sur notre site Web."
+    }
+  },
+  "market-crypto": {
+    "title": {
+      "ru": "Зарабатывайте на движении криптовалют с удобными CFD-контрактами | Sample Group",
+      "en": "Make money on the movement of cryptocurrencies with convenient CFD contracts | Sample Group",
+      "de": "Verdienen Sie Geld mit der Bewegung von Kryptowährungen mit praktischen CFD-Verträgen | Sample Group",
+      "fr": "Gagnez de l'argent sur le mouvement des crypto-monnaies avec des contrats CFD pratiques | Groupe Ade"
+    },
+    "description": {
+      "ru": "Отслеживайте динамику криптовалютных графиков в реальном времени. CFD контракты на криптовалюты. Рыночные котировки криптовалютных пар от брокера Sample Group.",
+      "en": "Monitor the dynamics of cryptocurrency charts in real time. CFD contracts for cryptocurrencies. Market quotes for cryptocurrency pairs from broker Sample Group.",
+      "de": "Überwachen Sie die Dynamik von Kryptowährungsdiagrammen in Echtzeit. CFD-Verträge für Kryptowährungen. Marktkurse für Kryptowährungspaare vom Broker Sample Group.",
+      "fr": "Surveillez la dynamique des graphiques de crypto-monnaie en temps réel. Contrats CFD pour crypto-monnaies. Cotations du marché pour les paires de crypto-monnaie du courtier Sample Group."
+    }
+  },
+  "trading-calculators": {
+    "title": {
+      "ru": "Калькулятор для трейдеров Форекс, расчет лота и маржинального залога онлайн на Sample Group",
+      "en": "Calculator for Forex traders, lot and margin calculation online at Sample Group",
+      "de": "Rechner für Forex-Händler, Lot- und Margin-Berechnung online bei Sample Group",
+      "fr": "Calculatrice pour traders Forex, calcul de lot et de marge en ligne sur Sample Group"
+    },
+    "description": {
+      "ru": "Sample Group не влияет на вашу деятельность на рынках. Наша роль заключается лишь в посреднических услугах между вами и банковскими учреждениями, предоставляющими нам ликвидность.",
+      "en": "Sample Group does not influence your activities in the markets. Our role is only to act as an intermediary between you and the banking institutions that provide us with liquidity.",
+      "de": "Sample Group hat keinen Einfluss auf Ihre Aktivitäten auf den Märkten. Unsere Rolle besteht lediglich darin, als Vermittler zwischen Ihnen und den Bankinstituten zu fungieren, die uns Liquidität zur Verfügung stellen.",
+      "fr": "Sample Group n'influence pas vos activités sur les marchés. Notre rôle est uniquement d'agir comme intermédiaire entre vous et les établissements bancaires qui nous fournissent des liquidités."
+    }
+  },
+  "trading-account-replenishment": {
+    "title": {
+      "ru": "Методы пополнения и вывода денежных средств | Торговля CFD на валютные пары | Sample Group UK Ltd",
+      "en": "Methods for depositing and withdrawing funds | Trading CFDs on currency pairs | Sample Group UK Ltd",
+      "de": "Methoden zum Ein- und Auszahlen von Geldern | Handel mit CFDs auf Währungspaare | Sample Group UK Ltd",
+      "fr": "Méthodes de dépôt et de retrait de fonds | Trader des CFD sur des paires de devises | Sample Group UK Ltd"
+    },
+    "description": {
+      "ru": "Ознакомьтесь с доступными методами оплаты при торговле CFD на валютные пары в Sample Group UK Limited. Пополнение/снятие без комиссий и разнообразные варианты перевода средств ждут вас.",
+      "en": "Check out the available payment methods when trading Forex CFDs with Sample Group UK Limited. Commission-free deposits/withdrawals and a variety of fund transfer options await you.",
+      "de": "Sehen Sie sich die verfügbaren Zahlungsmethoden beim Handel mit Forex-CFDs bei Sample Group UK Limited an. Es erwarten Sie provisionsfreie Ein-/Auszahlungen und vielfältige Möglichkeiten des Geldtransfers.",
+      "fr": "Découvrez les méthodes de paiement disponibles lorsque vous négociez des CFD Forex avec Sample Group UK Limited. Des dépôts/retraits sans commission et une variété d’options de transfert de fonds vous attendent."
+    }
+  },
+  "trading-start": {
+    "title": {
+      "ru": "Заведите торговый аккаунт на форекс и откройте реальный счет на Forex у брокера Sample Group.",
+      "en": "Sign up for a Forex trading account and open a live Forex account with the Sample Group broker.",
+      "de": "Melden Sie sich für ein Forex-Handelskonto an und eröffnen Sie ein Live-Forex-Konto beim Sample Group-Broker.",
+      "fr": "Inscrivez-vous à un compte de trading Forex et ouvrez un compte Forex en direct avec le courtier Sample Group."
+    },
+    "description": {
+      "ru": "Откройте торговый аккаунт на Forex в Sample Group на выгодных условиях. Sample Group входит в топ кредитных рейтингов и гарантирует высококлассное обслуживание. Проверьте сами",
+      "en": "Open a Forex trading account with Sample Group on favorable terms. Sample Group is included in the top credit ratings and guarantees high-quality service. Check it out for yourself",
+      "de": "Eröffnen Sie ein Forex-Handelskonto bei Sample Group zu günstigen Konditionen. Sample Group gehört zu den Top-Bonitätsratings und garantiert einen qualitativ hochwertigen Service. Überzeugen Sie sich selbst",
+      "fr": "Ouvrez un compte de trading Forex avec Sample Group à des conditions avantageuses. Sample Group figure parmi les meilleures notations de crédit et garantit un service de haute qualité. Vérifiez par vous-même"
+    }
+  },
+  "trading-news": {
+    "title": {
+      "ru": "Медиацентр Sample Group",
+      "en": "Media center Sample Group",
+      "de": "Medienzentrum Sample Group",
+      "fr": "Médiathèque Sample Group"
+    },
+    "description": {
+      "ru": "Медиацентр Sample Group",
+      "en": "Media center Sample Group",
+      "de": "Medienzentrum Sample Group",
+      "fr": "Médiathèque Sample Group"
+    }
+  },
+  "trading-economic-calendar": {
+    "title": {
+      "ru": "Экономический календарь для трейдеров Форекс, календарь макроэкономических событий и выступлений",
+      "en": "Economic calendar for Forex traders, calendar of macroeconomic events and speeches",
+      "de": "Wirtschaftskalender für Forex-Händler, Kalender makroökonomischer Ereignisse und Reden",
+      "fr": "Calendrier économique pour les traders Forex, calendrier des événements et discours macroéconomiques"
+    },
+    "description": {
+      "ru": "Ознакомьтесь с актуальными новостями валютного рынка в реальном времени через экономический календарь. Основные экономические события представлены на сайте Sample Group.",
+      "en": "Check out the latest currency market news in real time through the economic calendar. The main economic events are presented on the Sample Group website.",
+      "de": "Informieren Sie sich in Echtzeit über den Wirtschaftskalender über die neuesten Devisenmarktnachrichten. Die wichtigsten wirtschaftlichen Ereignisse werden auf der Website der Sample Group vorgestellt.",
+      "fr": "Consultez les dernières nouvelles du marché des devises en temps réel grâce au calendrier économique. Les principaux événements économiques sont présentés sur le site de l'Sample Group."
+    }
+  },
+  "targing-execution-transactions": {
+    "title": {
+      "ru": "Выгоды трейдинга в Sample Group | О компании Sample Group | Sample Group",
+      "en": "Benefits of trading with Sample Group | About Sample Group | Sample Group",
+      "de": "Vorteile des Handels mit Sample Group | Über Sample Group | Sample Group",
+      "fr": "Avantages du trading avec Sample Group | À propos d'Sample Group | Groupe Ade"
+    },
+    "description": {
+      "ru": "Sample Group не влияет на вашу деятельность на рынках. Наша роль заключается лишь в посреднических услугах между вами и банковскими учреждениями, предоставляющими нам ликвидность.",
+      "en": "Sample Group does not influence your activities in the markets. Our role is only to act as an intermediary between you and the banking institutions that provide us with liquidity.",
+      "de": "Sample Group hat keinen Einfluss auf Ihre Aktivitäten auf den Märkten. Unsere Rolle besteht lediglich darin, als Vermittler zwischen Ihnen und den Bankinstituten zu fungieren, die uns Liquidität zur Verfügung stellen.",
+      "fr": "Sample Group n'influence pas vos activités sur les marchés. Notre rôle est uniquement d'agir comme intermédiaire entre vous et les établissements bancaires qui nous fournissent des liquidités."
+    }
+  },
+  "about-about-us": {
+    "title": {
+      "ru": "История Sample Group: коллектив, стратегия развития и достижения",
+      "en": "History of Sample Group: team, development strategy and achievements",
+      "de": "Geschichte der Sample Group: Team, Entwicklungsstrategie und Erfolge",
+      "fr": "Historique d'Sample Group : équipe, stratégie de développement et réalisations"
+    },
+    "description": {
+      "ru": "Узнайте больше о Sample Group: история компании, команды, контактные данные, принципы работы и др. Детальнее на нашем сайте.",
+      "en": "Find out more about Sample Group: company history, teams, contact details, operating principles, etc. More details on our website.",
+      "de": "Erfahren Sie mehr über Sample Group: Firmengeschichte, Teams, Kontaktdaten, Arbeitsprinzipien usw. Weitere Details auf unserer Website.",
+      "fr": "Découvrez Sample Group : histoire de l'entreprise, équipes, coordonnées, principes de fonctionnement... Plus de détails sur notre site internet."
+    }
+  },
+  "about-credit-rating": {
+    "title": {
+      "ru": "Кредитные рейтинги: критерии оценки | Компания Sample Group",
+      "en": "Credit ratings: evaluation criteria | Sample Group company",
+      "de": "Bonität: Bewertungskriterien | Sample Group-Unternehmen",
+      "fr": "Notations de crédit : critères d'évaluation | Société Sample Group"
+    },
+    "description": {
+      "ru": "Зарабатывайте с надежным брокером. Кредитный рейтинг Sample Group.",
+      "en": "Make money with a reliable broker. Sample Group credit rating.",
+      "de": "Verdienen Sie Geld mit einem zuverlässigen Broker. Bonitätsbewertung der Sample Group.",
+      "fr": "Gagnez de l'argent avec un courtier fiable. Notation de crédit Sample Group."
+    }
+  },
+  "about-contacts": {
+    "title": {
+      "ru": "Контакты | Форекс-трейдинг | Sample Group",
+      "en": "Contacts | Forex trading | Sample Group",
+      "de": "Kontakte | Devisenhandel | Sample Group",
+      "fr": "Contacts | Trading sur le Forex | Groupe Ade"
+    },
+    "description": {
+      "ru": "Наша профессиональная мультиязычная служба поддержки доступна 24/5, предоставляя вам высококачественную помощь в вопросах ваших инвестиций.",
+      "en": "Our professional multilingual support team is available 24/5, providing you with high-quality assistance with your investments.",
+      "de": "Unser professionelles, mehrsprachiges Support-Team steht Ihnen rund um die Uhr zur Verfügung und bietet Ihnen hochwertige Unterstützung bei Ihren Investitionen.",
+      "fr": "Notre équipe d'assistance professionnelle multilingue est disponible 24h/24 et 5j/7, vous offrant une assistance de haute qualité dans vos investissements."
+    }
+  },
+  "documents-legal-information": {
+    "title": {
+      "ru": "Условия пользования веб-сайтом | Документы | Sample Group",
+      "en": "Website Terms of Use | Documents | Sample Group",
+      "de": "Nutzungsbedingungen der Website | Dokumente | Sample Group",
+      "fr": "Conditions d'utilisation du site Web | Documents | Groupe Ade"
+    },
+    "description": {
+      "ru": "На этой странице представлены Условия пользования сайтом Sample Group, а также сведения о безопасности, конфиденциальности, связанных ресурсах, отказе от обязательств и ограничении ответственности.",
+      "en": "This page provides the Sample Group Site Terms of Use, security, privacy, related resources, disclaimers, and limitations of liability.",
+      "de": "Auf dieser Seite finden Sie die Nutzungsbedingungen, Sicherheit, Datenschutz, zugehörige Ressourcen, Haftungsausschlüsse und Haftungsbeschränkungen der Sample Group-Website.",
+      "fr": "Cette page fournit les conditions d'utilisation du site Sample Group, la sécurité, la confidentialité, les ressources associées, les clauses de non-responsabilité et les limitations de responsabilité."
+    }
+  },
+  "documents-legal-documents": {
+    "title": {
+      "ru": "Юридическая информация | Торговля CFD на валюты в Sample Group | Регулируется государственными органами Великобритании",
+      "en": "Legal information | Trading CFDs on currencies at Sample Group | Regulated by UK Government Authorities",
+      "de": "Rechtliche Hinweise | Handel mit CFDs auf Währungen bei Sample Group | Von britischen Regierungsbehörden reguliert",
+      "fr": "Informations légales | Trader des CFD sur les devises chez Sample Group | Réglementé par les autorités gouvernementales britanniques"
+    },
+    "description": {
+      "ru": "Скачайте правовые документы Sample Group, касающиеся торговли CFD по валютным парам и другим категориям в Sample Group UK Ltd..",
+      "en": "Download Sample Group's legal documents regarding CFD trading on currency pairs and other categories from Sample Group UK Ltd..",
+      "de": "Laden Sie die rechtlichen Dokumente von Sample Group zum CFD-Handel mit Währungspaaren und anderen Kategorien von Sample Group UK Ltd. herunter.",
+      "fr": "Téléchargez les documents juridiques d'Sample Group concernant le trading de CFD sur les paires de devises et d'autres catégories d'Sample Group UK Ltd."
+    }
+  },
+  "documents-corporate-actions": {
+    "title": {
+      "ru": "Торговля CFD по валютным парам и акциям онлайн с брокером под регулированием Британской FCA.",
+      "en": "Trade CFDs on currency pairs and shares online with a broker regulated by the British FCA.",
+      "de": "Handeln Sie CFDs auf Währungspaare und Aktien online mit einem von der britischen FCA regulierten Broker.",
+      "fr": "Négociez des CFD sur des paires de devises et des actions en ligne avec un courtier réglementé par la FCA britannique."
+    },
+    "description": {
+      "ru": "Ознакомьтесь с корпоративными мероприятиями для эффективной онлайн-торговли в Sample Group. Торгуйте CFD на акции с брокером под контролем Великобритании на торговых платформах, отмеченных многочисленными наградами.",
+      "en": "Check out corporate events for effective online trading at Sample Group. Trade Share CFDs with a UK-regulated broker on award-winning trading platforms.",
+      "de": "Schauen Sie sich Unternehmensveranstaltungen für effektiven Online-Handel bei Sample Group an. Handeln Sie Aktien-CFDs mit einem in Großbritannien regulierten Broker auf preisgekrönten Handelsplattformen.",
+      "fr": "Consultez les événements d'entreprise pour un trading en ligne efficace sur Sample Group. Négociez des CFD sur actions avec un courtier réglementé au Royaume-Uni sur des plateformes de trading primées."
+    }
+  },
+  "documents-information-documents": {
+    "title": {
+      "ru": "Ключевые документы | Sample Group",
+      "en": "Key documents | Sample Group",
+      "de": "Schlüsseldokumente | Sample Group",
+      "fr": "Documents clés | Groupe Ade"
+    },
+    "description": {
+      "ru": "Ниже представлены ключевые документы, относящиеся к вашему торговому счету или счетам, а также к каждому типу активов, который предлагает Sample Group: Условия пользования сайтом, Юридические материалы, Основные справочные документы, Порядок предъявления претензий, Политика в сфере конфиденциальности, Уведомление об ассоциированных рисках, Данные о cookie-файлах, Представители Компании.",
+      "en": "Below are key documents related to your trading account or accounts and each asset type that Sample Group offers: Website Terms of Use, Legal Materials, Key Reference Documents, Claims Procedure, Privacy Policy, Risk Disclosure, Data about cookies, Company Representatives.",
+      "de": "Nachfolgend finden Sie wichtige Dokumente im Zusammenhang mit Ihrem Handelskonto bzw. Ihren Handelskonten und jedem Vermögenswerttyp, den Sample Group anbietet: Website-Nutzungsbedingungen, rechtliche Materialien, wichtige Referenzdokumente, Anspruchsverfahren, Datenschutzrichtlinie, Risikoaufklärung, Daten zu Cookies, Unternehmensvertreter.",
+      "fr": "Vous trouverez ci-dessous les documents clés liés à votre ou vos comptes de trading et à chaque type d'actif proposé par Sample Group : conditions d'utilisation du site Web, documents juridiques, documents de référence clés, procédure de réclamation, politique de confidentialité, divulgation des risques, données sur les cookies, représentants de l'entreprise."
+    }
+  },
+  "documents-key-complaints-handling-procedure": {
+    "title": {
+      "ru": "Процесс предъявления претензий | Документы | Sample Group",
+      "en": "Claims Process | Documents | Sample Group",
+      "de": "Schadensbearbeitung | Dokumente | Sample Group",
+      "fr": "Processus de réclamation | Documents | Groupe Ade"
+    },
+    "description": {
+      "ru": "Процесс предъявления претензий в Sample Group │ Действия Sample Group находятся под контролем FCA, CySEC и SCB.",
+      "en": "Sample Group Claims Process │ Sample Group's actions are supervised by the FCA, CySEC and SCB.",
+      "de": "Sample Group-Schadensprozess │ Die Maßnahmen von Sample Group werden von der FCA, CySEC und SCB überwacht.",
+      "fr": "Processus de réclamation d'Sample Group │ Les actions d'Sample Group sont supervisées par la FCA, la CySEC et la SCB."
+    }
+  },
+  "documents-key-privacy-policy": {
+    "title": {
+      "ru": "Политика конфиденциальности | Документы | Sample Group",
+      "en": "Privacy Policy | Documents | Sample Group",
+      "de": "Datenschutzrichtlinie | Dokumente | Sample Group",
+      "fr": "Politique de confidentialité | Documents | Groupe Ade"
+    },
+    "description": {
+      "ru": "Чтобы узнать, как Sample Group работает с информацией на ade-group.com и связанных ресурсах, перейдите по этой ссылке и прочитайте нашу политику конфиденциальности.",
+      "en": "To learn how Sample Group handles information on ade-group.com and related resources, please follow this link and read our privacy policy.",
+      "de": "Um zu erfahren, wie Sample Group mit Informationen auf ade-group.com und verwandten Ressourcen umgeht, folgen Sie bitte diesem Link und lesen Sie unsere Datenschutzrichtlinie.",
+      "fr": "Pour savoir comment Sample Group traite les informations sur ade-group.com et les ressources associées, veuillez suivre ce lien et lire notre politique de confidentialité."
+    }
+  },
+  "documents-risk-disclosure": {
+    "title": {
+      "ru": "Предупреждение о рисках | Sample Group",
+      "en": "Risk Warning | Sample Group",
+      "de": "Risikowarnung | Sample Group",
+      "fr": "Avertissement sur les risques | Groupe Ade"
+    },
+    "description": {
+      "ru": "Ознакомьтесь с Предупреждением о рисках Sample Group и получше познакомьтесь с торговлей CFD.",
+      "en": "Please read the Sample Group Risk Disclosure and become more familiar with CFD trading.",
+      "de": "Bitte lesen Sie die Risikohinweise der Sample Group und machen Sie sich mit dem CFD-Handel vertraut.",
+      "fr": "Veuillez lire la déclaration des risques d'Sample Group et vous familiariser davantage avec le trading de CFD."
+    }
+  },
+  "documents-bonus-rules": {
+    "title": {
+      "ru": "Правила и условия бонусов | Зарабатывайте с CFD в Sample Group",
+      "en": "Bonus Terms and Conditions | Earn money with CFDs at Sample Group",
+      "de": "Bonusbedingungen | Verdienen Sie Geld mit CFDs bei Sample Group",
+      "fr": "Conditions générales des bonus | Gagnez de l'argent avec les CFD chez Sample Group"
+    },
+    "description": {
+      "ru": "Правила и условия бонусов",
+      "en": "Bonus Terms and Conditions",
+      "de": "Bonusbedingungen",
+      "fr": "Conditions générales des bonus"
+    }
+  },
+  "documents-money-laundering": {
+    "title": {
+      "ru": "Предотвращение отмывания денег | Sample Group",
+      "en": "Prevention of money laundering | Sample Group",
+      "de": "Geldwäscheprävention | Sample Group",
+      "fr": "Prévention du blanchiment d'argent | Sample Groupe"
+    },
+    "description": {
+      "ru": "Предотвращение отмывания денег",
+      "en": "Prevention of money laundering",
+      "de": "Prävention von Geldwäsche",
+      "fr": "Prévention du blanchiment d'argent"
+    }
+  },
+  "documents-without-risks": {
+    "title": {
+      "ru": "Торговля без рисков | Документы | Sample Group",
+      "en": "Trading without risks | Documents | Sample Group",
+      "de": "Handeln ohne Risiko | Dokumente | Sample Group",
+      "fr": "Trading sans risques | Documents | Sample Groupe"
+    },
+    "description": {
+      "ru": "Торговля без рисков",
+      "en": "Trading without risks",
+      "de": "Handeln ohne Risiko",
+      "fr": "Trading sans risques"
+    }
+  },
+  "documents-terms-and-conditions": {
+    "title": {
+      "ru": "Положения и условия | Зарабатывайте с CFD в Sample Group",
+      "en": "Terms and Conditions | Earn money with CFDs at Sample Group",
+      "de": "Allgemeine Geschäftsbedingungen | Verdienen Sie Geld mit CFDs bei Sample Group",
+      "fr": "Conditions générales | Gagnez de l'argent avec les CFD chez Sample Group"
+    },
+    "description": {
+      "ru": "Sample Group предоставляет возможность торговли Контрактами на разницу (CFD) по валютным парам и пяти другим категориям активов. Запустите онлайн-торговлю с ведущим Форекс-брокером мира.",
+      "en": "Sample Group provides the ability to trade Contracts for Difference (CFDs) on currency pairs and five other asset categories. Start trading online with the world's leading Forex broker.",
+      "de": "Sample Group bietet die Möglichkeit, Differenzkontrakte (CFD) auf Währungspaare und fünf weitere Anlagekategorien zu handeln. Beginnen Sie mit dem Online-Handel beim weltweit führenden Forex-Broker.",
+      "fr": "Sample Group offre la possibilité de négocier des contrats sur différence (CFD) sur des paires de devises et cinq autres catégories d'actifs. Commencez à trader en ligne avec le premier courtier Forex au monde."
+    }
+  }
+}
